@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fanaticous
+- 👋 Hi, I’m @bartoszzm
 - 👀 I’m interested in working and learning.
-- 🌱 I’m currently learning JAVA.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on junior work. Just started learning and I am eager to improve my skills.
 - 📫 How to reach me DM or email address.
 
